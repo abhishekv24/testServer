@@ -2,41 +2,21 @@
   {
     "_id": "5b21ca3eeb7f6fbccd471815",
     "title": "Terminator",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471818",
-      "name": "Action"
-    }
   },
   {
     "_id": "5b21ca3eeb7f6fbccd471816",
     "title": "Die Hard",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471818",
-      "name": "Action"
-    }
   },
   {
     "_id": "5b21ca3eeb7f6fbccd471817",
     "title": "Get Out",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471820",
-      "name": "Thriller"
-    }
   },
   {
     "_id": "5b21ca3eeb7f6fbccd471819",
     "title": "Trip to Italy",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471814",
-      "name": "Comedy"
-    }
   },
   {
     "_id": "5b21ca3eeb7f6fbccd47181a",
     "title": "Airplane",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471814",
-      "name": "Comedy"
-    }
   }
 ]
