@@ -1,4 +1,4 @@
-[
+{"movies":[
   {
     "id": "5b21ca3eeb7f6fbccd471815",
     "title": "Terminator"
@@ -19,4 +19,4 @@
     "id": "5b21ca3eeb7f6fbccd47181a",
     "title": "Airplane"
   }
-]
+]}
