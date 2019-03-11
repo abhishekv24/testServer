@@ -49,30 +49,4 @@
       "name": "Comedy"
     }
   },
-  {
-    "_id": "5b21ca3eeb7f6fbccd47181e",
-    "title": "Gone Girl",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471820",
-      "name": "Thriller"
-    }
-  },
-  {
-    "_id": "5b21ca3eeb7f6fbccd47181f",
-    "title": "The Sixth Sense",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471820",
-      "name": "Thriller"
-    },
-    "numberInStock": 4,
-    "dailyRentalRate": 3.5
-  },
-  {
-    "_id": "5b21ca3eeb7f6fbccd471821",
-    "title": "The Avengers",
-    "genre": {
-      "_id": "5b21ca3eeb7f6fbccd471818",
-      "name": "Action"
-    }
-  }
 ]
