@@ -1,22 +1,22 @@
 [
   {
-    "_id": "5b21ca3eeb7f6fbccd471815",
+    "id": "5b21ca3eeb7f6fbccd471815",
     "title": "Terminator",
   },
   {
-    "_id": "5b21ca3eeb7f6fbccd471816",
+    "id": "5b21ca3eeb7f6fbccd471816",
     "title": "Die Hard",
   },
   {
-    "_id": "5b21ca3eeb7f6fbccd471817",
+    "id": "5b21ca3eeb7f6fbccd471817",
     "title": "Get Out",
   },
   {
-    "_id": "5b21ca3eeb7f6fbccd471819",
+    "id": "5b21ca3eeb7f6fbccd471819",
     "title": "Trip to Italy",
   },
   {
-    "_id": "5b21ca3eeb7f6fbccd47181a",
+    "id": "5b21ca3eeb7f6fbccd47181a",
     "title": "Airplane",
   }
 ]
